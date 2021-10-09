@@ -1,3 +1,4 @@
 # Password-Generator
 
-Test
+This is a password generator.
+Yes. It's simple!
